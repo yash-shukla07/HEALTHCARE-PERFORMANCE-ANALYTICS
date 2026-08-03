@@ -49,7 +49,7 @@ The dashboard follows an end-to-end pipeline — **Python cleaning → SQL relat
 
 Operational view: monthly appointment trends, doctor workload, patient demographics, branch performance, and no-show rate by branch.
 
-<img src="05-screenshots/appointment_analysis.png" alt="Appointment Analysis Dashboard" width="100%">
+<img src="05-screenshots/Appointment page ss.png" alt="Appointment Analysis Dashboard" width="100%">
 
 </details>
 
@@ -59,7 +59,7 @@ Operational view: monthly appointment trends, doctor workload, patient demograph
 
 Revenue breakdown by age group, payment method, insurance provider, and treatment type — connecting financial performance to patient and operational data.
 
-<img src="05-screenshots/financial_analysis.png" alt="Financial Analysis Dashboard" width="100%">
+<img src="05-screenshots/financial page ss.png" alt="Financial Analysis Dashboard" width="100%">
 
 </details>
 
@@ -69,7 +69,7 @@ Revenue breakdown by age group, payment method, insurance provider, and treatmen
 
 Synthesized operational and financial insights paired with four targeted action cards — the analytical conclusion of the dashboard.
 
-<img src="05-screenshots/insights.png" alt="Key Insights Dashboard" width="100%">
+<img src="05-screenshots/Insight page ss.png" alt="Key Insights Dashboard" width="100%">
 
 </details>
 
