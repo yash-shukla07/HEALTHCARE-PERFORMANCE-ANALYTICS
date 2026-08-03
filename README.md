@@ -49,7 +49,7 @@ The dashboard follows an end-to-end pipeline — **Python cleaning → SQL relat
 
 Operational view: monthly appointment trends, doctor workload, patient demographics, branch performance, and no-show rate by branch.
 
-<img src="05-screenshots/Appointment page ss.png" alt="Appointment Analysis Dashboard" width="100%">
+<img src="screenshots/Appointment page ss .png" alt="Appointment Analysis Dashboard" width="100%">
 
 </details>
 
@@ -59,7 +59,7 @@ Operational view: monthly appointment trends, doctor workload, patient demograph
 
 Revenue breakdown by age group, payment method, insurance provider, and treatment type — connecting financial performance to patient and operational data.
 
-<img src="05-screenshots/financial page ss.png" alt="Financial Analysis Dashboard" width="100%">
+<img src="screenshots/financial page ss .png" alt="Financial Analysis Dashboard" width="100%">
 
 </details>
 
@@ -69,7 +69,7 @@ Revenue breakdown by age group, payment method, insurance provider, and treatmen
 
 Synthesized operational and financial insights paired with four targeted action cards — the analytical conclusion of the dashboard.
 
-<img src="05-screenshots/Insight page ss.png" alt="Key Insights Dashboard" width="100%">
+<img src="screenshots/Insight page ss .png" alt="Key Insights Dashboard" width="100%">
 
 </details>
 
@@ -145,7 +145,7 @@ Hospital-Analytics/
 ├── 02-python/ # Data cleaning & preprocessing scripts
 ├── 03-sql/ # SQL relational schema & analysis queries
 ├── 04-power-bi/ # Power BI dashboard (.pbix)
-├── 05-screenshots/ # Dashboard page exports
+├── screenshots/ # Dashboard page exports
 ├── 06-genai-chatbot/ # Streamlit + Gemini API insight chatbot
 └── README.md
 
@@ -184,7 +184,7 @@ Hospital-Analytics/
 
 ## 🚀 How to View
 
-**1. Quick look:** Browse the `05-screenshots/` folder for static page exports.
+**1. Quick look:** Browse the `screenshots/` folder for static page exports.
 
 **2. Full interactivity:** Download `04-power-bi/*.pbix` and open in <a href="https://powerbi.microsoft.com/desktop/">Power BI Desktop</a> (free).
 
